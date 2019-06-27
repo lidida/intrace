@@ -521,14 +521,15 @@ section.extra-features .icon {
 }
 
 section.extra-features .item {
-  padding: 50px 30px;
+  margin: 20px;
+  padding: 50px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   cursor: default;
 }
 
 section.extra-features .item:hover {
-  background: #4c80e3;
+  /* background: #4c80e3; */
   -webkit-box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.2);
   box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.2);
 }

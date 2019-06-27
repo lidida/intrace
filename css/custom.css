@@ -171,3 +171,10 @@ a:focus .video-link-icon {
         max-width:40%;
         max-height: 40%;
     } }
+
+.circular-economy {
+    background-image:       url("../img/circular-economy.png");
+    background-size:        cover;
+    background-repeat:      no-repeat;
+    background-position:    center center;
+}
